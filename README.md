@@ -7,21 +7,32 @@ As you work on this Challenge, remember that you’re strengthening the same cor
 
 ---
 **Deliverable 1**:
+
     Description: Scrape titles and preview text from Mars news articles.
-    Folder: 
+
+Folder: 
     https://github.com/redpandata19/web_scraping_challenge/tree/main/Deliverable_1
-    Analysis: 
+
+Analysis: 
     https://github.com/redpandata19/web_scraping_challenge/blob/main/Deliverable_1/part_1_mars_news.ipynb
-    Exported Data: 
+
+Exported Data: 
     http://localhost:8889/edit/Deliverable_1/data/mars_data.json
 
-**Deliverable 2**: 
+---
+
+**Deliverable 2**:
+    
     Description: Scrape and analyze Mars weather data, which exists in a table.
-    Folder: 
+
+Folder: 
     https://github.com/redpandata19/web_scraping_challenge/tree/main/Deliverable_2
-    Analysis: 
+
+Analysis: 
     https://github.com/redpandata19/web_scraping_challenge/blob/main/Deliverable_2/part_2_mars_weather.ipynb
-    Images: 
+
+Images: 
     https://github.com/redpandata19/web_scraping_challenge/tree/main/Deliverable_2/images
-    Exported Data: 
+
+Exported Data: 
     https://github.com/redpandata19/web_scraping_challenge/blob/main/Deliverable_2/data_output/mars_data.csv
